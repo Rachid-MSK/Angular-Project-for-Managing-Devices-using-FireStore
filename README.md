@@ -1,3 +1,6 @@
+# Angular-Project-for-Managing-Devices-using-FireStore 
+## Angular Project for managing devices with their states using FireBase &amp; FireStore DataBase in real time
+
 # MonProjetAngularOpenclassrooms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
